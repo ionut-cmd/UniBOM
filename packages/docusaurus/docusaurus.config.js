@@ -25,7 +25,7 @@ const config = {
   url: DOCUSAURUS_URL,
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  organizationName: 'nqminds',
+  organizationName: 'anonimised',
   projectName: PROJECT_NAME,
 
   onBrokenLinks: 'throw',

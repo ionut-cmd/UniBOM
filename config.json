@@ -2,8 +2,8 @@
   "TITLE": "SBOM Generation and Analysis Platform",
   "TAGLINE": "Empowering Secure Development with In-Depth Vulnerability Insights",
   "DOCUSAURUS_URL": "https://sbom-gap.nqminds.com",
-  "PROJECT_NAME": "@nqminds/SBOM-GAP",
+  "PROJECT_NAME": "@anonimised",
   "HEDGEDOC_SERVER": "https://hedgedoc.nqminds.com",
-  "GITHUB_OWNER": "nqminds",
+  "GITHUB_OWNER": "anonimised",
   "GITHUB_REPO": "SBOM-GAP"
 }
