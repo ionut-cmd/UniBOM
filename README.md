@@ -1,4 +1,4 @@
-# SBOM-GAP(Generation and Analysis Platform) tool
+# UniBOM tool
 
 * For documentation and how to contribute, please follow this [link](https://sbom-gap.nqminds.com/cli/).
 
